@@ -29,7 +29,6 @@ Welcome to **ExpertEase**, a next-gen platform designed to connect businesses wi
 ### For Freelancers:
 - **Create a Professional Profile:** Showcase your skills, experience, and portfolio to attract potential clients.
 - **Bid on Projects:** Find jobs that match your skills and submit proposals.
-- **Flexible Payment Methods:** Secure payment systems to ensure timely and accurate payments.
 - **Skill-Based Recommendations:** Get project recommendations tailored to your skillset.
 - **Collaborate Seamlessly:** Use built-in tools to communicate with clients and manage projects.
 
